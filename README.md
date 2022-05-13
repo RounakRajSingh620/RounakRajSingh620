@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RounakRajSingh620
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Coding and learning new things
+- 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -8,6 +8,3 @@
 RounakRajSingh620/RounakRajSingh620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-coding
-C programming
-
