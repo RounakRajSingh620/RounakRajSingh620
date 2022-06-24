@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rounak Raj Singh</h1>
 <h3 align="center">A learner and passionate developer from India</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rounak Raj Singh&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RounakRajSingh&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="(https://twitter.com/RaunakR07143747)" target="blank"><img src="https://img.shields.io/twitter/follow/RaunakR07143747?logo=twitter&style=for-the-badge" alt="RaunakR07143747" /></a> </p>
 
 - 🌱 I’m currently learning **C **
