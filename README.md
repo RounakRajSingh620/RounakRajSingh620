@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RounakRajSingh&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="(https://twitter.com/RaunakR07143747)" target="blank"><img src="https://img.shields.io/twitter/follow/RaunakR07143747?logo=twitter&style=for-the-badge" alt="RaunakR07143747" /></a> </p>
 
-- 🌱 I’m currently learning **C++ **
+- 🌱 I’m currently learning **React Js **
 
 - 👯 I’m looking to collaborate on **Web Development**
 
