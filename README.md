@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rounak Raj Singh</h1>
-<h3 align="center">A learner and passionate developer from India</h3>
+ <h1 align="center">Hi<img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47h725kwv0sspzozkw09vmylceczlowrmxd1pljclb&rid=giphy.gif&ct=s" width="30px" height="30px">, I'm Rounak Raj Singh</h1>
+<h3 align="center">A open learner and passionate developer from India  <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RounakRajSingh&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <a href="(https://twitter.com/RaunakR07143747)" target="blank"><img src="https://img.shields.io/twitter/follow/RaunakR07143747?logo=twitter&style=for-the-badge" alt="RaunakR07143747" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Enthusiast;Front-End+Developer+)](https://git.io/typing-svg)
+# 💫 About Me:
+🔭 I’m currently working on React Js<br>👯 I’m looking to collaborate on web development<br>🤝 I’m looking for help with back-end and web3.0<br>🌱 I’m currently learning Js, python <br>
 
-- 🌱 I’m currently learning **React Js **
-
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 📫 How to reach me **raunakrajsingh620@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
